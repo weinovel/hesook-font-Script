@@ -1,0 +1,7 @@
+* text=auto
+
+*.ttf binary
+*.otf binary
+*.png binary
+*.jpg binary
+*.mobileconfig -text

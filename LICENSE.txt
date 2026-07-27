@@ -1,0 +1,66 @@
+희숙체 (Heesookche) 사용 허락서
+Copyright (c) 2026 weinovel  contact@weinovel.com
+
+누구나 공짜로 쓰실 수 있습니다. 개인이든 회사든, 돈을 버는 일에 쓰셔도
+됩니다. 다만 글꼴 파일을 고치는 것만 안 됩니다.
+
+
+쓸 수 있는 것
+  1. 개인·회사·단체 누구나 자기 기기에 설치해서 쓰는 것.
+  2. 광고, 간판, 포장, 책, 영상, 상품 등 돈을 버는 일에 쓰는 것.
+     따로 허락을 받거나 돈을 내지 않아도 됩니다.
+  3. 이 글꼴로 만든 문서·그림·발표 자료 따위를 팔거나 나눠 주는 것.
+     그렇게 만든 결과물은 이 허락서의 제약을 받지 않습니다.
+  4. 글꼴이 들어간 물건·프로그램·앱·웹사이트를 파는 것.
+  5. 글꼴 파일을 그대로 남에게 나눠 주거나, 인터넷에 올리거나,
+     프로그램·앱·웹사이트에 넣어 배포하는 것.
+     이때는 이 허락서(LICENSE.txt)를 함께 넣어 주세요.
+
+쓸 수 없는 것
+  1. 글꼴 파일(.ttf, .otf, .mobileconfig)을 고치는 것.
+     글자 모양을 바꾸거나, 글자를 더하거나 빼거나, 이름·정보를 바꾸거나,
+     일부를 떼어내 다른 글꼴을 만드는 것 모두 안 됩니다.
+  2. 형식을 바꾸는 것. 웹폰트(woff, woff2)나 다른 형식으로 변환하는 것도
+     안 됩니다.
+  3. 글꼴 파일 자체를 상품으로 파는 것(재판매).
+     글꼴이 들어간 다른 물건을 파는 것은 괜찮습니다. 위 4번을 보세요.
+  4. 이 글꼴을 자기가 만들었다고 하는 것.
+
+문의: contact@weinovel.com
+
+보증하지 않음
+  이 글꼴은 있는 그대로 드립니다. 쓰다가 생기는 어떤 손해에 대해서도
+  만든 이는 책임지지 않습니다.
+
+
+-----------------------------------------------------------
+Heesookche Font License (English summary)
+Copyright (c) 2026 weinovel  contact@weinovel.com
+
+Free for anyone to use, including commercial use.
+The font files themselves may NOT be modified.
+
+You MAY:
+  - Install and use the font: personal, business, or organizational.
+  - Use it commercially — advertising, signage, packaging, books,
+    video, products — with no fee and no separate permission.
+  - Sell or share any work you create with the font. Such works are
+    not restricted by this license.
+  - Sell products, software, apps, or websites that embed the font.
+  - Redistribute the font files unmodified, or bundle them in software,
+    apps, or websites. Please include this LICENSE.txt with them.
+
+You MAY NOT:
+  - Modify the font files (.ttf, .otf, .mobileconfig) in any way:
+    no altering glyphs, adding or removing characters, renaming,
+    changing metadata, or deriving another font from them.
+  - Convert them to another format, including web fonts (woff, woff2).
+  - Resell the font files themselves as a product. (Selling other goods
+    that use the font is fine — see above.)
+  - Claim authorship of the font.
+
+Contact: contact@weinovel.com
+
+THE FONT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT
+SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THE FONT.
